@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Abhishek Sharma</h1>
   
   <!-- Typing Effect Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack Developer ;UI/UX Designer;Competitive+Programmer;AI+Developer;Building+Cool+Stuf" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;Competitive+Programmer;AI+Developer;Building+Cool+Stuff" alt="Typing SVG" />
 </div>
 
 ### 📌 About Me
@@ -17,7 +17,7 @@
 ### 🌐 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,fastapi,react,html,css,three.js,express,mongodb,pytorch,git,github,linux,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,fastapi,react,html,css,threejs,express,mongodb,pytorch,git,github,linux,docker" alt="Tech Stack" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Abhishek87550/Abhishek87550/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
