@@ -59,7 +59,3 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Abhishek87550&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhishek87550&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek87550&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
